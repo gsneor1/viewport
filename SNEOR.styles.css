@@ -271,7 +271,7 @@ img{
 
 /* ---------- LARGE SCREEN STYLES ---------- */
 /* --------------- BEGIN LARGE SCREEN SIZES --------------- */
-@media screen and (min-width: 1024px){
+@media screen and (min-width: 620px){
 
     header, footer{
         background-color: var(--lime-green);
