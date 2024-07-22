@@ -201,7 +201,7 @@ img{
 
 
 /* ---------- SMALL SCREEN STYLES ---------- */
-@media screen and (max-width: 380px) {
+@media screen and (min-width: 380px) {
 
 /* --------------- BEGIN SMALL SCREEN SIZES --------------- */
     header, footer{
