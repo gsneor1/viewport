@@ -201,7 +201,7 @@ img{
 
 
 /* ---------- SMALL SCREEN STYLES ---------- */
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 380px) {
 
 /* --------------- BEGIN SMALL SCREEN SIZES --------------- */
     header, footer{
@@ -311,7 +311,7 @@ img{
 
 /* ---------- ADJUSTING RESPONSIVE IMAGE SIZE ---------- */
 /* --------------- BEGIN RESPONSIVE IMAGE ADJUST SIZES --------------- */
-@media only screen and (min-width: 1380px){
+@supports (min-width: 1380px){
     img{
         width: 300px;
         max-width: 300px;
